@@ -1,0 +1,546 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OMT
+</name>
+</assembly>
+<members>
+<member name="T:OMT.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OMT.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OMT.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_accountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_classicmilkteaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_fruitteasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_goldensugarDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_milkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_powderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_saltedcaramelcreamDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_signaturemilkteaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_sinkersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_sweetsyrupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_thaiseriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_whiterabbitcandyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_yakultfusionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_paymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_accountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_classicmilkteaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_fruitteasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_goldensugarRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_milkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_powderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_saltedcaramelcreamRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_signaturemilkteaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_sinkersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_sweetsyrupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_thaiseriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_whiterabbitcandyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_yakultfusionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_paymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_accountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_classicmilkteaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_fruitteasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_goldensugarRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_milkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_powderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_saltedcaramelcreamRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_signaturemilkteaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_sinkersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_sweetsyrupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_thaiseriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_whiterabbitcandyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_yakultfusionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1.tbl_paymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_accountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_classicmilkteaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_fruitteasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_goldensugarTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_milkTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_powderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_saltedcaramelcreamTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_signaturemilkteaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_sinkersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_sweetsyrupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_thaiseriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_whiterabbitcandyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_yakultfusionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.tbl_paymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OMT.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(OMT.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OMT.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(OMT.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OMT.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(OMT.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OMT.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OMT.DataSet1TableAdapters.TableAdapterManager.UpdateAll(OMT.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OMT.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:OMT.SalesData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OMT.SalesData.tbl_paymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.SalesData.tbl_paymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.SalesData.tbl_paymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.SalesDataTableAdapters.tbl_paymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.SalesDataTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OMT.SalesDataTableAdapters.TableAdapterManager.UpdateUpdatedRows(OMT.SalesData,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OMT.SalesDataTableAdapters.TableAdapterManager.UpdateInsertedRows(OMT.SalesData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OMT.SalesDataTableAdapters.TableAdapterManager.UpdateDeletedRows(OMT.SalesData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OMT.SalesDataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OMT.SalesDataTableAdapters.TableAdapterManager.UpdateAll(OMT.SalesData)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OMT.SalesDataTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OMT.SalesDataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:OMT.sinkersdata">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OMT.sinkersdata.tbl_paymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.sinkersdata.tbl_paymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.sinkersdata.tbl_paymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.sinkersdataTableAdapters.tbl_paymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.sinkersdataTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OMT.sinkersdataTableAdapters.TableAdapterManager.UpdateUpdatedRows(OMT.sinkersdata,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OMT.sinkersdataTableAdapters.TableAdapterManager.UpdateInsertedRows(OMT.sinkersdata,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OMT.sinkersdataTableAdapters.TableAdapterManager.UpdateDeletedRows(OMT.sinkersdata,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OMT.sinkersdataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OMT.sinkersdataTableAdapters.TableAdapterManager.UpdateAll(OMT.sinkersdata)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OMT.sinkersdataTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OMT.sinkersdataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:OMT.stockset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OMT.stockset.tbl_stocksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMT.stockset.tbl_stocksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMT.stockset.tbl_stocksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMT.stocksetTableAdapters.tbl_stocksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMT.stocksetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OMT.stocksetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OMT.stockset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OMT.stocksetTableAdapters.TableAdapterManager.UpdateInsertedRows(OMT.stockset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OMT.stocksetTableAdapters.TableAdapterManager.UpdateDeletedRows(OMT.stockset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OMT.stocksetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OMT.stocksetTableAdapters.TableAdapterManager.UpdateAll(OMT.stockset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OMT.stocksetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OMT.stocksetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
